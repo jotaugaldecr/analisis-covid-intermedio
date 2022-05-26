@@ -1,0 +1,37 @@
+---
+title: "Analisis de datos de Covid-19 en Costa Rica con paquetes ggplot2"
+author: "Jonathan Ugalde"
+date: '2022-05-26'
+output:
+  html_document:
+    theme: readable    
+    toc: true
+    toc_depth: 5
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+# Entradas
+
+# Procesamiento
+
+# Salidas
+
+## Datos Nacionales 
+
+### Tabla
+
+### Grafico de Lineas
+
+## Datos Cantonales
+
+### Tabla
+
+### Grafico de lineas
